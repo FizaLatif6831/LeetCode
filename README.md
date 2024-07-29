@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/FizaLatif6831/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/FizaLatif6831/LeetCode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/FizaLatif6831/LeetCode/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/FizaLatif6831/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
