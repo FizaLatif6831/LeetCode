@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FizaLatif6831/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/FizaLatif6831/LeetCode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/FizaLatif6831/LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -30,4 +31,5 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FizaLatif6831/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/FizaLatif6831/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
