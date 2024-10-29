@@ -8,10 +8,12 @@
 | [0125-valid-palindrome](https://github.com/FizaLatif6831/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/FizaLatif6831/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/FizaLatif6831/LeetCode/tree/master/0283-move-zeroes) |
+| [1894-merge-strings-alternately](https://github.com/FizaLatif6831/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/FizaLatif6831/LeetCode/tree/master/0125-valid-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/FizaLatif6831/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
